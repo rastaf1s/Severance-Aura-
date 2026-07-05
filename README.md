@@ -43,8 +43,5 @@ As respostas e códigos gerados neste projeto seguem um sistema de **dois agente
 - Recomenda-se forte uso ético e responsável.
 
 ---
-
-**Como ativar Severance Aura+:**  
-Escreva claramente no prompt: `"Ativar Severance Aura+"` ou `"Modo Severance"`.
-
+**:p**
 ---
